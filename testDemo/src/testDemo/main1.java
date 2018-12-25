@@ -14,9 +14,9 @@ public class main1 {
 		// ※他ユーザのメッセージを上書きしないこと
 		System.out.printf("test1\n");
 		System.out.printf("s.inoue");
-		System.out.printf("テスト1：内容の更新（コミット、プッシュ）");
-		System.out.printf("テスト2：内容の更新（プル）");
-		System.out.printf("テスト2：内容の更新（コンフリクトA）");
+		System.out.printf("テスト1：内容の更新（コミット、プッシュ）\n");
+		System.out.printf("テスト2：内容の更新（プル）\n");
+		System.out.printf("テスト2：内容の更新（コンフリクトA）\n");
 
 	}
 
