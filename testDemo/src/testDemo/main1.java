@@ -22,6 +22,7 @@ public class main1 {
 		System.out.printf("テスト4：内容の更新（プルリクエスト２）\n");
 
 		System.out.printf("テスト4：内容の更新（プルリクエスト再テスト）\n");
+		System.out.printf("テスト4：内容の更新（プルリクエスト再テスト２）\n");
 
 	}
 
