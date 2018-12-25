@@ -15,6 +15,7 @@ public class main1 {
 		System.out.printf("test1\n");
 		System.out.printf("s.inoue");
 		System.out.printf("テスト1：内容の更新（コミット、プッシュ）");
+		System.out.printf("テスト2：内容の更新（プル）");
 
 	}
 
